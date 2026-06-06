@@ -1,0 +1,19 @@
+{
+  "dataset": {
+    "rows": 63355,
+    "class_distribution": {
+      "True": 34521,
+      "Fake": 28834
+    },
+    "average_text_length": 3309.3256096598534
+  },
+  "cv_splits": 5,
+  "test_size": 0.2,
+  "selected_model": "Stacking Ensemble",
+  "selected_metrics": {
+    "accuracy": 0.961092257911767,
+    "precision": 0.954655172413793,
+    "recall": 0.960117912259407,
+    "f1": 0.9573787498919339
+  }
+}
